@@ -20,7 +20,9 @@ I have some exciting plans for this project to make it even better:
 - Integrating sound effects 🎶 for an immersive gaming experience.  
 
 ## 📸 Screenshots  
-Stay tuned! I’ll be adding some awesome screenshots soon to give you a sneak peek of the game in action!  
+<div style="display: flex; justify-content: space-between; gap: 5px;">
+  <img src="https://github.com/user-attachments/assets/bb07d861-1db3-4b84-985c-8c0f5014d090" alt="Image 1" width="650"/>
+</div> 
 
 ## 🙌 Feedback & Suggestions  
 This is a passion project and a great way for me to learn more about **JavaScript game development**. If you have any suggestions, ideas, or just want to share your thoughts, feel free to reach out! 😊  
